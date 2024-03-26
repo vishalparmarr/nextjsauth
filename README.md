@@ -2,7 +2,7 @@
 <h1><b>NEXT JS AUTH</b></h1>
 </div>
 
-This repository is based on the authentication system using Next.js by [Chai aur Code](https://www.youtube.com/@chaiaurcode)
+This repository is based on the production level authentication system using Next.js by [Chai aur Code](https://www.youtube.com/@chaiaurcode)
 Youtube Channel.
 
 Thanks [Hitesh Choudhary](https://github.com/hiteshchoudhary) sir for creating a course..
@@ -19,6 +19,12 @@ cd nextjsauth
 ```bash
 npm install
 ```
+- Change the env files
+``` bash
+.env.sample to .env
+and add the environment variables 
+```
+
 - Run the Server
 
 ```bash
